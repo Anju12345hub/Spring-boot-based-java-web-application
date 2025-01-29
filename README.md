@@ -17,6 +17,8 @@ SonarQube
 Argo CD
 
 Configure a Sonar Server locally
+
+
 apt install unzip
 adduser sonarqube
 wget https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-9.4.0.54424.zip
